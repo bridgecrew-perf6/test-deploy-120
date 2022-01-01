@@ -32,6 +32,8 @@ export default {
     "@nuxtjs/tailwindcss",
   ],
 
+  router: { base: "/test-deploy/" },
+
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
